@@ -1,1 +1,6 @@
-# trip_to_iceland_smonsour
+# notes on upcoming trip to Iceland
+
+This contains:
+ - to-do list
+ - itinerary
+ - flights
